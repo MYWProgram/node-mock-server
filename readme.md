@@ -1,6 +1,13 @@
 # node-mock-server
 
+[![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%235d9558&color=%232d2d2d)](https://github.com/MYWProgram/node-mock-server)
+[![Nodemon](https://img.shields.io/badge/-Nodemon-%23F05032?style=for-the-badge&logo=Nodemon&logoColor=%235d9558&color=%232d2d2d)](https://github.com/MYWProgram/node-mock-server)
+
 使用`node.js`-`koa2`构建，`lowdb`持久化JSON数据的`mock`工具；用于应对日常开发前端`mock`实现
+
+## Version
+
+[![Node](https://img.shields.io/badge/Node.js-%3E10.14.3-green)](https://github.com/MYWProgram/node-mock-server)
 
 ## 功能
 
